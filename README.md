@@ -1,6 +1,6 @@
 Welcome
 --->
-### Bem vindos ao meu perfil! :blue_heart
+### Bem vindos ao meu perfil! :blue_heart:
 
 Meu nome é Gabriely Souza. 
 
